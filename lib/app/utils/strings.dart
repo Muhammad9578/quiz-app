@@ -1,0 +1,11 @@
+const lbl_welcome = "Welcome to Quizly";
+const lbl_student = "Student";
+const lbl_teacher = "Teacher";
+const lbl_letsbegin = "Let's begin";
+const lbl_selecttype = "Select type";
+const lbl_login = "Login";
+const lbl_forgetpassword = "Forget password?";
+const lbl_createfolder = "Create Folder";
+const lbl_createset = "Create Set";
+const lbl_addquestion = "Add Question";
+const lbl_register = "Register";

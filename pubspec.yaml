@@ -1,0 +1,33 @@
+name: quiz_app_flutter
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  get: 4.6.6
+  google_fonts: 6.1.0
+  nb_utils: 6.1.0
+  cached_network_image: 3.3.0
+  firebase_core: 2.24.2
+  firebase_auth: 4.15.3
+  cloud_firestore: 4.13.6
+  icons_plus: 5.0.0
+  google_sign_in: 6.1.6
+  
+  
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/images/login.jpg
+  uses-material-design: true
